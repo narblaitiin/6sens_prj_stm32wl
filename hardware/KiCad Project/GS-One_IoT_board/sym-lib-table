@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "penguino_v1")(type "Legacy")(uri "${KIPRJMOD}/librairies/lib_Penguino/penguino_v1.lib")(options "")(descr ""))
-)
